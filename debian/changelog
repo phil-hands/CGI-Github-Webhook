@@ -1,3 +1,10 @@
+libcgi-github-webhook-perl (0.06-1.1.0~hands1) unstable; urgency=medium
+
+  * built for hands.com
+  * improved kludge for GitLab
+
+ -- Philip Hands <phil@hands.com>  Tue, 14 Sep 2021 23:23:31 +0200
+
 libcgi-github-webhook-perl (0.06-1) unstable; urgency=low
 
   * Initial upload to Debian. (Closes: #832056)
